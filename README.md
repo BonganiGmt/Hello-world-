@@ -1,3 +1,3 @@
 # Hello-world-
-#This-how-test-
+# We are testing Github
 just a test repository 
